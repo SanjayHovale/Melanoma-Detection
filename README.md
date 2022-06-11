@@ -27,7 +27,7 @@ Dataset Creation→ Create train & validation dataset from the train directory w
 Dataset visualisation → Create a code to visualize one instance of all the nine classes present in the dataset 
 
 Model Building & training : 
-
+ 
 Create a CNN model, which can accurately detect 9 classes present in the dataset. While building the model, rescale images to normalize pixel values between (0,1).
 
 Choose an appropriate optimiser and loss function for model training
